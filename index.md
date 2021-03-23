@@ -18,6 +18,8 @@
   * [Blitztactics](https://blitztactics.com) is a super addictive, fast paced variation on solving tactics.
   * [Lichess](https://lichess.org) a free and opensource alternative to chess.com. Hands down the best place to play online chess.
   * [Aimchess](https://aimchess.com) is great for structured daily drills. Makes getting better a bit less of a Sisyphean ontaking.
+* Games and just about all aspects of making a game in general are obviously near and dear. 
+  * [Game Programming Patterns](https://gameprogrammingpatterns.com) by Robert Nystrom is such a masterpiece of an introductory game programming book. An overview of 20 different popular programming patterns with absolutely zero non-essential stuff.
 * Picked up running and reading again during the pandemic.
    * Running goal is to run a marathon this year. We'll see how that one goes.
    * Reading goal is to read at least 20 books this year.
