@@ -21,7 +21,7 @@
 </figure>
 
 ### Zenga
-* iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to draw shapes with a line and not draw too much over whatever you've got. The aesthetic is supposed to be somewhat reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
+* iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to jot down shapes and not draw too much over whatever you've already drawn. The aesthetic is supposed to be reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
 * Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
 
 <figure class="video_container">
