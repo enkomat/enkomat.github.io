@@ -44,6 +44,7 @@
 * Love music in all its forms. Have been making music with the computer since I was a kid. Used [FL Studio](https://www.image-line.com) for a long time, but switched to [Ableton](https://www.ableton.com) around five years ago. 
   * [Goodhertz](https://goodhertz.co) make some of the best plugins around. Especially the [Vulf Compressor](https://goodhertz.co/vulf-comp/) is a beast.
   * [Oeksound](https://oeksound.com/) is an amazing Finnish plugin company. [Soothe](https://oeksound.com/plugins/soothe2/) is basically black magic.
+  * [Stompenberg FX](https://www.thomann.de/gb/stompenberg_devices.html) by Thomann. Actual hardware guitar pedals soldered and tampered with, so you can connect to them through the internet and plug them into your own guitar virtually. An interesting writeup about the process [here](https://www.thomann.de/blog/en/stompenberg-effects/).
 * Play quite a bit of chess. Got hooked around 2012. 99% of my games have been online, but have played some at the local chess club as well.
   * [Blitztactics](https://blitztactics.com) is a super addictive, fast paced variation on solving tactics.
   * [Lichess](https://lichess.org) a free and opensource alternative to chess.com. Hands down the best place to play online chess.
