@@ -1,4 +1,4 @@
-## Hey, my name is Matias Enkovaara! Here's a couple of tidbits about me. ✨
+## Hey, my name is Matias! Here's a couple of tidbits about me. ✨
 * 28 and live in Helsinki. Currently located at Kallio.
 * Studying Computer Science at the [University of Helsinki](https://www.helsinki.fi/en). Working towards a Bachelor's.
 * Graduated from AEL (renamed to [Taitotalo](https://www.taitotalo.fi)) in 2015.
