@@ -15,7 +15,7 @@
 * Progress: █████████████████▁▁▁ 85%
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="true" allowfullscreen="true">
     <source src="https://github.com/enkomat/enkomat.github.io/blob/master/videos/Isomorphic2.mp4" type="video/mp4">
   </video>
 </figure>
@@ -25,7 +25,7 @@
 * Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="true" allowfullscreen="true">
     <source src="https://github.com/enkomat/enkomat.github.io/blob/master/videos/Zenga2.mp4" type="video/mp4">
   </video>
 </figure>
@@ -35,7 +35,7 @@
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="true" allowfullscreen="true">
     <source src="https://github.com/enkomat/enkomat.github.io/blob/master/videos/Pops2.mp4" type="video/mp4">
   </video>
 </figure>
