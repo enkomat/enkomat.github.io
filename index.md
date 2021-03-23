@@ -11,7 +11,8 @@
 ## Below is a handful of prototypes I've created with Unity. 👾
 
 ### Isomorphic
-* iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Mostly procedurally generated.
+* iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Two graphs are isomorphic when they might not visually look similar, but the connections between the nodes are the exact same. This means you could move each of the nodes and make these dissimilar looking graphs the exact same. And that's the premise of the game. Mostly procedurally generated.
+* Interestingly, coming up with a good algorithm for checking whether two graphs are isomorphic or not is still a quite active area of computer science.
 * Progress: █████████████████▁▁▁ 85%
 
 <figure class="video_container">
