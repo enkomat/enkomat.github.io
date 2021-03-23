@@ -1,4 +1,4 @@
-## Hey, my name is Matias! Here's a couple of tidbits about me. ✨
+## Hey, my name is Matias! Here's a couple of tidbits of info about me. ✨
 * 28 and live in Helsinki. Currently located at Kallio.
 * Studying Computer Science at the [University of Helsinki](https://www.helsinki.fi/en). Working towards a Bachelor's.
 * Graduated from AEL (renamed to [Taitotalo](https://www.taitotalo.fi)) in 2015.
@@ -8,7 +8,7 @@
   * Learned the ropes Unity during the 3D projects.
 * Have been using Unity since 2014, and been using it to create my own projects since 2015.
 
-## Below are a handful of small projects I've created with Unity. 👾
+## Below is a handful of prototypes I've created with Unity. 👾
 
 ### Isomorphic
 * iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Mostly procedurally generated.
@@ -31,7 +31,7 @@
 </figure>
 
 ### Pops
-* iOS casual puzzler. Your goal is to rotate the 3D shapes on top of each other and then pop them when you match three or more. A spin on the classic Match 3 trope. The design is still pretty messy and there isn't as much depth to it as I'd liked.
+* iOS casual puzzler. Your goal is to rotate the 3D shapes on top of each other and then tap to pop them when you match three or more. A spin on the classic Match 3 trope. The design is still pretty messy and there isn't as much depth to it as I'd liked.
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
 
 <figure class="video_container">
@@ -40,19 +40,21 @@
   </video>
 </figure>
 
+### I've sadly yet to finish and release a complete game, but would love to get a shot at it with a good team. Developing solo has definitely been a quest, but I'm pretty sure at this point it'd be easier to get to the next level doing it the opposite way. Would be stoked to get to work with some more seasoned developers.
+
 ## Random extras and recs. 👀
-* Love music in all its forms. Have been making music with the computer since I was a kid. Used [FL Studio](https://www.image-line.com) for a long time, but switched to [Ableton](https://www.ableton.com) around five years ago. 
-  * [Goodhertz](https://goodhertz.co) make some of the best plugins around. Especially the [Vulf Compressor](https://goodhertz.co/vulf-comp/) is a beast.
-  * [Oeksound](https://oeksound.com/) is an amazing Finnish plugin company. [Soothe](https://oeksound.com/plugins/soothe2/) is basically black magic.
+* Music is near and dear. Have been making it with various computers since I was a kid. Used [FL Studio](https://www.image-line.com) for a long time, but switched to [Ableton](https://www.ableton.com) around five years ago. Recommendations below.
+  * [Goodhertz](https://goodhertz.co) make some of the best audio plugins around. Especially the [Vulf Compressor](https://goodhertz.co/vulf-comp/) is a beast.
+  * [Oeksound](https://oeksound.com/) is an amazing Finnish plugin company. [Soothe](https://oeksound.com/plugins/soothe2/) is basically black magic for your mix.
   * [Stompenberg FX](https://www.thomann.de/gb/stompenberg_devices.html) by Thomann. Actual hardware guitar pedals soldered and tampered with, so you can connect to them through the internet and plug them into your own guitar virtually. An interesting writeup about the process [here](https://www.thomann.de/blog/en/stompenberg-effects/).
-* Play quite a bit of chess. Got hooked around 2012. 99% of my games have been online, but have played some at the local chess club as well.
+* Play quite a bit of chess. Got hooked around 2012. 99% of my games have been online, but have played some at the local chess club as well. Recommendations below.
   * [Blitztactics](https://blitztactics.com) is a super addictive, fast paced variation on solving tactics.
   * [Lichess](https://lichess.org) a free and opensource alternative to chess.com. Hands down the best place to play online chess.
   * [Aimchess](https://aimchess.com) is great for structured daily drills. Makes getting better a bit less of a Sisyphean ontaking.
-* Games and just about all aspects of making a game in general are obviously near and dear. 
+* Games and just about all aspects of making a game are obviously things I obsess about. Haven't been playing as much as I'd want to recently, and have a growing list of games I should get to. Recommendations below.
   * [Game Programming Patterns](https://gameprogrammingpatterns.com) by Robert Nystrom is such a masterpiece of an introductory game programming book. An overview of 20 different popular programming patterns with absolutely zero non-essential stuff.
 * Picked up running and reading again during the pandemic.
-   * Running goal is to run a marathon this year. We'll see how that one goes.
-   * Reading goal is to read at least 20 books this year.
-     * ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 20%
+   * Goal is to run my first marathon this year. We'll see how that one goes.
+   * Another one is to read at least 20 books this year.
+     * ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 20%, 4 books read so far
      * Reading Ray Dalio's Principles and Don Delillo's Zero K at the moment.
