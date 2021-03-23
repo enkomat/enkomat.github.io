@@ -17,6 +17,7 @@
 * Play quite a bit of chess. Got hooked around 2012. 99% of my games have been online, but have played some at the local chess club as well.
   * [Blitztactics](https://blitztactics.com) is a super addictive, fast paced variation on solving tactics.
   * [Lichess](https://lichess.org) a free and opensource alternative to chess.com. Hands down the best place to play online chess.
+  * [Aimchess](https://aimchess.com) is great for structured daily drills. Makes getting better a bit less of a Sisyphean ontaking.
 * Picked up running and reading again during the pandemic.
    * Running goal is to run a marathon this year. We'll see how that one goes.
    * Reading goal is to read at least 20 books this year.
