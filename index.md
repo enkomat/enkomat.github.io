@@ -10,6 +10,36 @@
 
 ## Below are a handful of small projects I've created with Unity. 👾
 
+# Isomorphic
+* iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Mostly procedurally generated.
+* Progress: █████████████████▁▁▁ 85%
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://github.com/enkomat/enkomat.github.io/blob/master/videos/Isomorphic2.mp4" type="video/mp4">
+  </video>
+</figure>
+
+# Zenga
+* iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to draw shapes with a line and not draw too much over whatever you've got. The aesthetic is supposed to be somewhat reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
+* Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://github.com/enkomat/enkomat.github.io/blob/master/videos/Zenga2.mp4" type="video/mp4">
+  </video>
+</figure>
+
+# Pops
+* iOS casual puzzler. Your goal is to rotate the 3D shapes on top of each other and then pop them when you match three or more. A spin on the classic Match 3 trope. The design is still pretty messy and there isn't as much depth to it as I'd liked.
+* Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://github.com/enkomat/enkomat.github.io/blob/master/videos/Pops2.mp4" type="video/mp4">
+  </video>
+</figure>
+
 ## Random extras and recs. 👀
 * Love music in all its forms. Have been making music with the computer since I was a kid. Used [FL Studio](https://www.image-line.com) for a long time, but switched to [Ableton](https://www.ableton.com) around five years ago. 
   * [Goodhertz](https://goodhertz.co) make some of the best plugins around. Especially the [Vulf Compressor](https://goodhertz.co/vulf-comp/) is a beast.
