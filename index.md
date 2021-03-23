@@ -19,4 +19,6 @@
  * [Lichess](https://lichess.org) a free and opensource alternative to chess.com. Hands down the best place to play online chess.
  * Picked up running and reading again during the pandemic.
   * Running goal is to run a marathon this year. We'll see how that one goes.
-  * Reading goal is to read at least 20 books this year. Currently at 4/20. Reading Ray Dalio's Principles and Don Delillo's Zero K at the moment.
+  * Reading goal is to read at least 20 books this year.
+    * ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 20%
+    * Reading Ray Dalio's Principles and Don Delillo's Zero K at the moment.
