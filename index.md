@@ -12,7 +12,7 @@
 
 ## Random extras and recs. 👀
 * Love music in all its forms. Have been making music with the computer since I was a kid. Used [FL Studio](https://www.image-line.com) for a long time, but switched to [Ableton](https://www.ableton.com) around five years ago. 
- *[Goodhertz](https://goodhertz.co) make some of the best plugins around. Especially the [Vulf Compressor](https://goodhertz.co/vulf-comp/) is a beast.
+ * [Goodhertz](https://goodhertz.co) make some of the best plugins around. Especially the [Vulf Compressor](https://goodhertz.co/vulf-comp/) is a beast.
  * [Oeksound](https://oeksound.com/) is an amazing Finnish plugin company. [Soothe](https://oeksound.com/plugins/soothe2/) is basically black magic.
 * Play quite a bit of chess. Got hooked around 2012. 99% of my games have been online, but have played some at the local chess club as well.
  * [Blitztactics](https://blitztactics.com) is a super addictive, fast paced variation on solving tactics.
