@@ -1,6 +1,6 @@
 ## Hey, my name is Matias! Here's a couple of tidbits of info about me. ✨
 * 28 and live in Helsinki. Currently located at Kallio.
-* Studying Computer Science at the [University of Helsinki](https://www.helsinki.fi/en). Working towards a Bachelor's.
+* Studying Computer Science at the [University of Helsinki](https://www.helsinki.fi/en). Working towards a bachelor's degree.
 * Graduated from AEL (renamed to [Taitotalo](https://www.taitotalo.fi)) in 2015.
   * Got a multimedia degree, worked on the graphics for two small 2D game projects and two 3D projects.
   * We used Flash for the 2D projects and Unity for the 3D projects. 3D modeling was done with 3DS Max and the 2D graphics were done with Illustrator, Photoshop and Flash.
