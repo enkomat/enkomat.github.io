@@ -54,7 +54,7 @@
   * [Aimchess](https://aimchess.com) is great for structured daily drills. Makes getting better a bit less of a Sisyphean ontaking.
 * Games and just about all aspects of making a game are obviously things I obsess about. Haven't been playing as much as I'd want to recently, and have a growing list of games I should get to. Recommendations below.
   * [Game Programming Patterns](https://gameprogrammingpatterns.com) by Robert Nystrom is such a masterpiece of an introductory game programming book. An overview of 20 different popular programming patterns with absolutely zero non-essential stuff.
-  * [Flow in Games](http://jenovachen.info/abstract) by Jenova Chen is a great read for anyone interested in game design. Gets to the core of one of the biggest reason people love to play, the flow state.
+  * [Flow in Games](http://jenovachen.info/abstract) by Jenova Chen is a great read for anyone interested in game design. Gets to the core of one of the biggest reasons people love to play, the flow state.
     * Jenova Chen also directed [Journey](https://store.steampowered.com/app/638230/Journey/), [Flower](https://store.steampowered.com/app/966330/Flower/) and [flOw](https://en.wikipedia.org/wiki/Flow_(video_game)). All beautiful games in their own right.
 * Picked up running and reading again during the pandemic.
    * Goal is to run my first marathon this year. We'll see how that one goes.
