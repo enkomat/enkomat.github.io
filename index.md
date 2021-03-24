@@ -1,6 +1,6 @@
 ## Hey, my name is Matias! Here's a couple of tidbits of info about me. ✨
 * 28 and live in Helsinki. Currently located at Kallio.
-* Studying Computer Science at the [University of Helsinki](https://www.helsinki.fi/en). Working towards a Bachelor's.
+* Studying Computer Science at the [University of Helsinki](https://www.helsinki.fi/en). Working towards a bachelor's degree.
 * Graduated from AEL (renamed to [Taitotalo](https://www.taitotalo.fi)) in 2015.
   * Got a multimedia degree, worked on the graphics for two small 2D game projects and two 3D projects.
   * We used Flash for the 2D projects and Unity for the 3D projects. 3D modeling was done with 3DS Max and the 2D graphics were done with Illustrator, Photoshop and Flash.
@@ -11,7 +11,8 @@
 ## Below is a handful of prototypes I've created with Unity. 👾
 
 ### Isomorphic
-* iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Mostly procedurally generated.
+* iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Two graphs are isomorphic when they might not visually look similar, but the connections between the nodes are the exact same. This means you could move each of the nodes and make these dissimilar looking graphs the exact same. And that's the premise of the game. Mostly procedurally generated.
+* Interestingly, coming up with a good algorithm for checking whether two graphs are isomorphic or not is still a quite active area of computer science.
 * Progress: █████████████████▁▁▁ 85%
 
 <figure class="video_container">
@@ -21,7 +22,7 @@
 </figure>
 
 ### Zenga
-* iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to draw shapes with a line and not draw too much over whatever you've got. The aesthetic is supposed to be somewhat reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
+* iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to jot down shapes and not draw too much over whatever you've already drawn. The aesthetic is supposed to be reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
 * Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
 
 <figure class="video_container">
@@ -40,7 +41,7 @@
   </video>
 </figure>
 
-### I've sadly yet to finish and release a complete game, but would love to get a shot at it with a good team. Developing solo has definitely been a quest, but I'm pretty sure at this point it'd be easier to get to the next level doing it the opposite way. Would be stoked to get to work with some more seasoned developers. 🦾
+### I've sadly yet to finish and release a complete game, but would love to get a shot at it with a good team. Developing solo has definitely been a quest, but I'm pretty sure it'd be easier to get to the next level doing it the opposite way at this point. Would be stoked to get to work with some more seasoned developers. 🦾
 
 ## Random extras and recs. 👀
 * Music is near and dear. Have been making it with various computers since I was a kid. Used [FL Studio](https://www.image-line.com) for a long time, but switched to [Ableton](https://www.ableton.com) around five years ago. Recommendations below.
