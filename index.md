@@ -31,6 +31,10 @@
   </video>
 </figure>
 
+### Tykki
+* iOS casual game. Something to relax to or play on the toilet, pretty straight forward. The name is the word for a cannon in Finnish.
+* Progress: █████████████████▁▁▁ 85%
+
 ### Pops
 * iOS casual puzzler. Your goal is to rotate the 3D shapes on top of each other and then tap to pop them when you match three or more. A spin on the classic Match 3 trope. The design is still pretty messy and there isn't as much depth to it as I'd liked.
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
