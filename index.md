@@ -29,6 +29,7 @@
 
 ![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/ZengaLoop2.gif "Title screen.")
 ![Solving the first level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/ZengaLoop1.gif "Solving the first level.")
+![Solving the fourth level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/ZengaLoop4.gif "Solving the fourth level.")
 
 ### Kanuuna
 * iOS casual puzzler. You have a given amount of blocks with different colors and the map changes dynamically as you begin to plow through them. If the ball is not the right color, it will bounce off.
