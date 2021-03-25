@@ -16,6 +16,7 @@
 * Progress: █████████████████▁▁▁ 85%
 * A longer gameplay video [here](testurl).
 
+![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLogo.png "Title screen.")
 ![Solving the first level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLoop1.gif "Solving the first level.")
 ![Solving the fifth level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLoop2.gif "Solving the fifth level.")
 
