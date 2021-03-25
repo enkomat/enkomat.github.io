@@ -27,6 +27,7 @@
 * Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
 * A longer gameplay video [here](testurl).
 
+![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/ZengaLoop2.gif "Title screen.")
 ![Solving the first level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/ZengaLoop1.gif "Solving the first level.")
 
 ### Kanuuna
