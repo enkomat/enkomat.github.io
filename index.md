@@ -16,11 +16,7 @@
 * Progress: █████████████████▁▁▁ 85%
 * A longer gameplay video [here](testurl).
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/enkomat/enkomat.github.io/blob/master/videos/Isomorphic2.mp4" type="video/mp4">
-  </video>
-</figure>
+![Solving the first level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLoop1.gif "Solving the first level.")
 
 ### Zenga
 * iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to jot down shapes and not draw too much over whatever you've already drawn. The aesthetic is supposed to be reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
