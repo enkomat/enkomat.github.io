@@ -46,7 +46,7 @@
   </video>
 </figure>
 
-#### I've sadly yet to finish and release a complete game, but would love to get a shot at it with a good team. Developing solo has definitely been a quest, but I'm pretty sure at this point it'd be easier to get to the next level doing it the opposite way. Would be stoked to get to work with some more seasoned developers. 🦾
+#### I've sadly yet to finish and release a complete game, but would love to get a shot at it with a good team. Developing solo has definitely been a quest, but I'm pretty sure that at this point it'd be easier to get to the next level doing it the opposite way. Would be stoked to get to work with some more seasoned developers. 🦾
 
 ## Random extras and recs. 👀
 * Music is near and dear. Have been making it with various computers since I was a kid. Used [FL Studio](https://www.image-line.com) for a long time, but switched to [Ableton](https://www.ableton.com) around five years ago.
