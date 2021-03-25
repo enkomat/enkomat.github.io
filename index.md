@@ -55,7 +55,7 @@
   * [Stompenberg FX](https://www.thomann.de/gb/stompenberg_devices.html) by Thomann. Actual hardware guitar pedals soldered and tampered with, so you can connect to them through the internet and plug them into your own guitar virtually. An interesting writeup about the process [here](https://www.thomann.de/blog/en/stompenberg-effects/).
 * Play quite a bit of chess. Got hooked around 2014. 99% of my games have been online, but have played some at the local chess club as well.
   * [Blitztactics](https://blitztactics.com) is a super addictive, fast paced variation on traditional chess puzzles.
-  * [Lichess](https://lichess.org) a free and opensource alternative to chess.com. Hands down the best place to play online chess.
+  * [Lichess](https://lichess.org) a free and open source alternative to [chess.com](https://www.chess.com/). Hands down the best place to play online chess.
   * [Aimchess](https://aimchess.com) is great for structured daily drills. Makes getting better a bit less of a Sisyphean ontaking.
 * Games and just about all aspects of making a game are obviously things I obsess about. Haven't been playing as much as I'd want to recently, and have a growing list of games I should get to.
   * [Game Programming Patterns](https://gameprogrammingpatterns.com) by Robert Nystrom is such a masterpiece of an introductory game programming book. An overview of 20 different popular programming patterns with absolutely zero non-essential stuff.
