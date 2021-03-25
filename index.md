@@ -49,7 +49,7 @@
 #### I've sadly yet to finish and release a complete game, but would love to get a shot at it with a good team. Developing solo has definitely been a quest, but I'm pretty sure that at this point it'd be easier to get to the next level doing it the opposite way. Would be stoked to get to work with some more seasoned developers. 🦾
 
 ## Random extras and recs. 👀
-* Music is near and dear. Have been making it with various machines - from computers to an SP1200 - since I was pretty young. Used [FL Studio](https://www.image-line.com) for a long time, but switched to [Ableton](https://www.ableton.com) around five years ago.
+* Music is near and dear. Have been going at it with various machines - from computers to an SP1200 - since I was pretty young. Used [FL Studio](https://www.image-line.com) for a long time, but switched to [Ableton](https://www.ableton.com) around five years ago.
   * [Goodhertz](https://goodhertz.co) make some of the best audio plugins around. Especially the [Vulf Compressor](https://goodhertz.co/vulf-comp/) is a beast.
   * [Oeksound](https://oeksound.com/) is an amazing Finnish plugin company. [Soothe](https://oeksound.com/plugins/soothe2/) is basically black magic for your mix.
   * [Stompenberg FX](https://www.thomann.de/gb/stompenberg_devices.html) by Thomann. Actual hardware guitar pedals soldered and tampered with, so you can connect to them through the internet and plug them into your own guitar virtually. An interesting writeup about the process [here](https://www.thomann.de/blog/en/stompenberg-effects/).
