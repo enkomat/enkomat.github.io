@@ -27,11 +27,7 @@
 * Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
 * A longer gameplay video [here](testurl).
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/enkomat/enkomat.github.io/blob/master/videos/Zenga2.mp4" type="video/mp4">
-  </video>
-</figure>
+![Solving the first level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/ZengaLoop1.gif "Solving the first level.")
 
 ### Kanuuna
 * iOS casual puzzler. You have a given amount of blocks with different colors and the map changes dynamically as you begin to plow through them. If the ball is not the right color, it will bounce off.
