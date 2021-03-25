@@ -14,6 +14,7 @@
 * iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Two graphs are isomorphic when they might not visually look similar, but the connections between the nodes are the exact same. This means you could move each of the nodes and make these dissimilar looking graphs the exact same. And that's the premise of the game. Mostly procedurally generated.
 * Interestingly, coming up with a good algorithm for checking whether two graphs are isomorphic or not is still a quite active area of computer science.
 * Progress: █████████████████▁▁▁ 85%
+* A longer gameplay video [here](testurl).
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
@@ -24,6 +25,7 @@
 ### Zenga
 * iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to jot down shapes and not draw too much over whatever you've already drawn. The aesthetic is supposed to be reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
 * Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
+* A longer gameplay video [here](testurl).
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
@@ -31,13 +33,16 @@
   </video>
 </figure>
 
-### Tykki
-* iOS casual game. Something to relax to or play on the toilet, pretty straight forward. The name is the word for a cannon in Finnish.
+### Kanuuna
+* Casual iOS game. You have a given amount of blocks with different colors and the map changes dynamically as you begin to plow through them. If the ball is not the right color, it will bounce off. The basic design could be used for something way less casual, but I ended up with this super bright and easily digestable thing. I guess I wanted to try to design something a bit less minimalist and a hallpass to juice everything up to eleven. 😄
+* The name is the word for a cannon in Finnish.
 * Progress: █████████████████▁▁▁ 85%
+* A longer gameplay video [here](testurl).
 
 ### Pops
 * iOS casual puzzler. Your goal is to rotate the 3D shapes on top of each other and then tap to pop them when you match three or more. A spin on the classic Match 3 trope. The design is still pretty messy and there isn't as much depth to it as I'd liked.
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
+* A longer gameplay video [here](testurl).
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
