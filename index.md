@@ -53,7 +53,7 @@
   * [Goodhertz](https://goodhertz.co) make some of the best audio plugins around. Especially the [Vulf Compressor](https://goodhertz.co/vulf-comp/) is a beast.
   * [Oeksound](https://oeksound.com/) is an amazing Finnish plugin company. [Soothe](https://oeksound.com/plugins/soothe2/) is basically black magic for your mix.
   * [Stompenberg FX](https://www.thomann.de/gb/stompenberg_devices.html) by Thomann. Actual hardware guitar pedals soldered and tampered with, so you can connect to them through the internet and plug them into your own guitar virtually. An interesting writeup about the process [here](https://www.thomann.de/blog/en/stompenberg-effects/).
-* Play quite a bit of chess. Got hooked around 2012. 99% of my games have been online, but have played some at the local chess club as well.
+* Play quite a bit of chess. Got hooked around 2014. 99% of my games have been online, but have played some at the local chess club as well.
   * [Blitztactics](https://blitztactics.com) is a super addictive, fast paced variation on solving tactics.
   * [Lichess](https://lichess.org) a free and opensource alternative to chess.com. Hands down the best place to play online chess.
   * [Aimchess](https://aimchess.com) is great for structured daily drills. Makes getting better a bit less of a Sisyphean ontaking.
