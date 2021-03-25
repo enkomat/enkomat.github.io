@@ -1,5 +1,5 @@
 ## Hey, my name is Matias! Here's a couple of tidbits of info about me. ✨
-* 28 and have lived in Helsinki my whole life.
+* 28 and live in Helsinki. Currently in Kallio.
 * Studying Computer Science at the [University of Helsinki](https://www.helsinki.fi/en). Working towards a bachelor's degree.
 * Graduated from AEL (renamed to [Taitotalo](https://www.taitotalo.fi)) in 2015.
   * Got a multimedia degree, worked on the graphics for two small 2D game projects and two 3D projects.
