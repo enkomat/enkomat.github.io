@@ -8,7 +8,7 @@
   * Learned the ropes Unity during the 3D projects.
 * Have been using Unity since 2014, and been using it to create my own projects since 2015.
 
-## Below is a handful of prototypes I've created with Unity. 👾
+## A handful of prototypes I've created with Unity. 👾
 
 ### Isomorphic
 * iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Two graphs are isomorphic when they might not visually look similar, but the connections between the nodes are the exact same. This means you could move each of the nodes and make these dissimilar looking graphs the exact same. And that's the premise of the game. Mostly procedurally generated.
