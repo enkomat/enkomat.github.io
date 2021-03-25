@@ -34,7 +34,7 @@
 </figure>
 
 ### Kanuuna
-* Casual iOS game. You have a given amount of blocks with different colors and the map changes dynamically as you begin to plow through them. If the ball is not the right color, it will bounce off.
+* iOS casual puzzler. You have a given amount of blocks with different colors and the map changes dynamically as you begin to plow through them. If the ball is not the right color, it will bounce off.
 * The basic design could be used for something way less casual, but I ended up with this super bright and easily digestable thing. I guess I wanted to try to design something a bit less minimalist and a hall pass to juice everything up to eleven. 😄
 * The name means cannon in Finnish.
 * Progress: █████████████████▁▁▁ 85%
