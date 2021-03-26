@@ -70,5 +70,5 @@
 * Picked up running and reading again during the pandemic.
    * Goal is to run my first marathon this year. We'll see how that one goes. 😅
    * Another one is to read at least 20 books this year.
-     * ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 20%, 4 books read so far
-     * Reading Ray Dalio's Principles and Don Delillo's Zero K at the moment.
+     * ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 20%, 4 books read so far.
+     * Currently reading Ray Dalio's Principles and Haruki Murakami's What I Talk About When I Talk About Running.
