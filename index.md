@@ -35,6 +35,8 @@
 * Progress: █████████████████▁▁▁ 85%
 * Longer gameplay video [here](testurl).
 
+![Playing.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/KanuunaLoop1.gif "Playing.")
+
 ### Pops
 * iOS casual puzzler. Your goal is to rotate the 3D shapes on top of each other and then tap to pop them when you match three or more. A spin on the classic Match 3 trope. The mechanics still feel pretty messy and there isn't as much depth to it as I'd like.
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
