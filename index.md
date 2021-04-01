@@ -16,6 +16,8 @@
 * Progress: █████████████████▁▁▁ 85%
 * Longer gameplay video [here](testurl).
 
+<iframe src="https://player.vimeo.com/video/531702062?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="320" height="568" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Isomorphic Gameplay"></iframe>
+
 ![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLogo1.png "Title screen.")
 ![Solving the first level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLoop1.gif "Solving the first level.")
 ![Solving the fifth level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLoop2.gif "Solving the fifth level.")
