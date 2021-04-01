@@ -35,11 +35,6 @@
 * Progress: █████████████████▁▁▁ 85%
 * Longer gameplay video [here](testurl).
 
-### Beach Bash
-* iOS casual game. Built around the idea of you controlling the map instead of the players.
-* Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
-* Longer gameplay video [here](testurl).
-
 ### Pops
 * iOS casual puzzler. Your goal is to rotate the 3D shapes on top of each other and then tap to pop them when you match three or more. A spin on the classic Match 3 trope. The design is still pretty messy and there isn't as much depth to it as I'd liked.
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
