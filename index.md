@@ -11,9 +11,9 @@
 ## A handful of prototypes I've created with Unity. 👾
 
 ### Isomorphic
-* iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Two graphs are isomorphic when they might not visually look similar, but the connections between the nodes are the exact same. This means you could move each of the nodes and make these dissimilar looking graphs the exact same. And that's the premise of the game. Mostly procedurally generated.
+* iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Two graphs are isomorphic when they might not visually look similar, but the connections between the nodes are the exact same. This means you could move each of the nodes and make these dissimilar looking graphs the exact same. And that's the premise of the game. Mostly procedurally generated. Pretty sure the game would be better with more hand designed levels, though, so might have to make more of those.
 * Interestingly, coming up with a good algorithm for checking whether two graphs are isomorphic or not is still a quite active area of computer science.
-* Progress: █████████████████▁▁▁ 85%
+* ██████████████▁▁▁▁▁▁ 70%
 * Longer gameplay video [here](https://vimeo.com/531702062).
 
 ![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLogo1.png "Title screen.")
@@ -32,7 +32,7 @@
 ### Kanuuna
 * iOS casual puzzler. You have a given amount of blocks with different colors and the map changes dynamically as you begin to plow through them. If the ball is not the right color, it will bounce off. The basic design could be used for something way less casual, but I ended up with this super bright and easily digestable thing. I guess I wanted to try to design something a bit less minimalist and give myself a hall pass to juice everything up to eleven. 😄
 * The name means cannon in Finnish.
-* Progress: █████████████████▁▁▁ 85%
+* ██████████▁▁▁▁▁▁▁▁▁▁ 50%
 * Longer gameplay video [here](testurl).
 
 ![Playing.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/KanuunaLoop1.gif "Playing.")
