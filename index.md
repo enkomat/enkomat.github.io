@@ -40,11 +40,9 @@
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
 * Longer gameplay video [here](testurl).
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/enkomat/enkomat.github.io/blob/master/videos/Pops2.mp4" type="video/mp4">
-  </video>
-</figure>
+![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/PopsLoop1.gif "Title screen.")
+![Playing.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/PopsLoop2.gif "Playing.")
+![More playing.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/PopsLoop3.gif "More playing.")
 
 #### I've sadly yet to finish and release a complete game, but would love to get a shot at it with a good team. Developing solo has definitely been a quest, but I'm pretty sure that at this point it'd be easier to get to the next level doing it the opposite way. Would be stoked to get to work with some more seasoned developers. 🦾
 
