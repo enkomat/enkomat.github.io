@@ -14,9 +14,7 @@
 * iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Two graphs are isomorphic when they might not visually look similar, but the connections between the nodes are the exact same. This means you could move each of the nodes and make these dissimilar looking graphs the exact same. And that's the premise of the game. Mostly procedurally generated.
 * Interestingly, coming up with a good algorithm for checking whether two graphs are isomorphic or not is still a quite active area of computer science.
 * Progress: █████████████████▁▁▁ 85%
-* Longer gameplay video [here](testurl).
-
-<iframe src="https://player.vimeo.com/video/531702062?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="320" height="568" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Isomorphic Gameplay"></iframe>
+* Longer gameplay video [here](https://vimeo.com/531702062).
 
 ![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLogo1.png "Title screen.")
 ![Solving the first level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLoop1.gif "Solving the first level.")
@@ -25,7 +23,7 @@
 ### Zenga
 * iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to jot down shapes and not draw too much over whatever you've already drawn. The aesthetic is supposed to be reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
 * Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
-* Longer gameplay video [here](testurl).
+* Longer gameplay video [here](https://vimeo.com/531702505).
 
 ![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/ZengaLoop2.gif "Title screen.")
 ![Solving the first level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/ZengaLoop1.gif "Solving the first level.")
@@ -40,7 +38,7 @@
 ### Pops
 * iOS casual puzzler. Your goal is to rotate the 3D shapes on top of each other and then tap to pop them when you match three or more. A spin on the classic Match 3 trope. The mechanics still feel pretty messy and there isn't as much depth to it as I'd like.
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
-* Longer gameplay video [here](testurl).
+* Longer gameplay video [here](https://vimeo.com/531703365).
 
 ![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/PopsLoop1.gif "Title screen.")
 ![Playing.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/PopsLoop2.gif "Playing.")
