@@ -32,7 +32,6 @@
 ### Kanuuna
 * iOS casual puzzler. You have a given amount of blocks with different colors and the map changes dynamically as you begin to plow through them. If the ball is not the right color, it will bounce off. The basic design could be used for something way less casual, but I ended up with this super bright and easily digestable thing. I guess I wanted to try to design something less minimalist and give myself a hall pass to juice everything up to eleven. The name means cannon in Finnish!
 * ██████████▁▁▁▁▁▁▁▁▁▁ 50%
-* Longer gameplay video [here](testurl).
 
 ![Playing.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/KanuunaLoop1.gif "Playing.")
 
