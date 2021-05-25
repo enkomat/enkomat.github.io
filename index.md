@@ -45,6 +45,11 @@
 ![Playing.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/PopsLoop2.gif "Playing.")
 ![More playing.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/PopsLoop3.gif "More playing.")
 
+### Spaghetti Master
+* Python programming game for Windows/Linux/MacOS. You control a character in the game and use it to build structures. The only way to control the character is by programming Python and interfacing with the game.
+* This was a project for an university course, where each student was tasked to create a program with Python. Built using [Pygame](https://www.pygame.org/).
+* Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
+
 #### I've sadly yet to finish and release a complete game, but would love to get a shot at it with a good team. Developing solo has definitely been a quest, but I'm pretty sure that at this point it'd be easier to get to the next level doing it the opposite way. Would be stoked to get to work with some more seasoned developers. 🦾
 
 ## Random extras and recs. 👀
