@@ -68,8 +68,3 @@
     * Jenova Chen also directed [Journey](https://store.steampowered.com/app/638230/Journey/), [Flower](https://store.steampowered.com/app/966330/Flower/) and [flOw](https://en.wikipedia.org/wiki/Flow_(video_game)). All beautiful games in their own right.
   * [Johanna Pirker](https://www.youtube.com/c/JohannaPirker42) has some really interesting gamedev related interviews and lectures on her channel.
   * [Kenney](https://www.kenney.nl/assets) makes some amazing public domain assets. If you want to get a project started quick, these will help!
-* Picked up running and reading again during the pandemic.
-   * Goal is to run a half marathon this year. We'll see how that one goes. 😅
-   * Another one is to read at least 20 books this year.
-     * █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 25%, 5 books read so far.
-     * Currently reading Ray Dalio's Principles.
