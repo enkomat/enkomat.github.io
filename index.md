@@ -12,7 +12,7 @@
 
 ### Isomorphic
 * iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Two graphs are isomorphic when they might not visually look similar, but the connections between the nodes are the exact same. This means you could move each of the nodes and make these dissimilar looking graphs the exact same. And that's the premise of the game. Mostly procedurally generated. Pretty sure the game would be better with more hand designed levels, though, so might have to make more of those.
-* Interestingly, coming up with a good algorithm for checking whether two graphs are isomorphic or not is still a quite active area of computer science.
+* Interestingly, coming up with a good algorithm for checking whether two graphs are isomorphic or not is still a quite active area of computer science. The algorithm for checking the correct graph was much easier to create for this game, as the graphs are usually both isomprhic to begin with and in the case they are not, they contain such a small amount of nodes that is isn't going to take over a frame for even the oldest iPhone to process.
 * ██████████████▁▁▁▁▁▁ 70%
 * Longer gameplay video [here](https://vimeo.com/531702062).
 
@@ -22,6 +22,7 @@
 
 ### Zenga
 * iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to jot down shapes and not draw too much over whatever you've already drawn. The aesthetic is supposed to be reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
+* Wrote a custom algorithm for path recognition. The algorithm is based on overlaying invisible nodes over the drawing, essantially creating a graph that represents the drawing in a more abstract form. It is then measured that the player does not draw over a certain edge of the graph multiple times, while not forcing the player to draw perfectly over the original drawing.
 * Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
 * Longer gameplay video [here](https://vimeo.com/531702505).
 
