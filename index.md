@@ -47,7 +47,7 @@
 ![More playing.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/PopsLoop3.gif "More playing.")
 
 ### Spaghetti Master
-* Python programming game for Windows/Linux/MacOS. You control a character in the game and use it to build structures. The only way to control the character is by programming Python and interfacing with the game.
+* Python programming game for Windows/Linux/MacOS. You control a character in the game and use it to build structures. The only way to control the character is by programming Python and interfacing with the game with the language.
 * This was a project for an university course, where each student was tasked to create a program with Python. Built using [Pygame](https://www.pygame.org/).
 * The project's [GitHub repository](https://github.com/enkomat/ot-harjoitustyo) contains more information and full source code.
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
