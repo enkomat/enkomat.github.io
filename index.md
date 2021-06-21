@@ -1,5 +1,5 @@
 
-# Portfolio
+## Portfolio
 
 ### Isomorphic
 * iOS puzzle game based on the concept of [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism). Two graphs are isomorphic when they might not visually look similar, but the connections between the nodes are the exact same. This means you could move each of the nodes and make these dissimilar looking graphs the exact same. And that's the premise of the game. Mostly procedurally generated. Pretty sure the game would be better with more hand designed levels, though, so might have to make more of those.
