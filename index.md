@@ -44,6 +44,6 @@
 
 ### Spaghetti Master
 * Python programming game for Windows/Linux/MacOS. You control a character in the game and use it to build structures. The only way to control the character is by interfacing with the game through writing Python scripts.
-* This was a project for an university course, where each student was tasked to create a program with Python. Built using [Pygame](https://www.pygame.org/).
+* This was a project for an university course, where each student was tasked to create a program with Python. Built using [Pygame](https://www.pygame.org/). I used [two](https://www.kenney.nl/assets/micro-roguelike) [different](https://www.kenney.nl/assets/game-icons) open source graphics asset packs from [Kenney](https://www.kenney.nl) for the project.
 * The project's [GitHub repository](https://github.com/enkomat/ot-harjoitustyo) contains more information and full source code.
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
