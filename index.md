@@ -1,5 +1,5 @@
 
-## Portfolio
+## My Solo Projects
 
 ### Isomorphic
 
