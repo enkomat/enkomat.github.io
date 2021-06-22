@@ -12,7 +12,7 @@
 ![Solving the fifth level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLoop2.gif "Solving the fifth level.")
 
 ### Zenga
-* iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to jot down shapes and not draw too much over whatever you've already drawn. The aesthetic is supposed to be reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
+* iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to jot down shapes and not draw too much over whatever you've already drawn. The aesthetic is reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
 * Wrote a custom algorithm for path recognition. The algorithm is based on overlaying invisible nodes over the drawing, essantially creating a graph that represents the drawing in a more abstract form. It is then measured that the player does not draw over a certain edge of the graph multiple times, while not forcing the player to draw perfectly over the original drawing.
 * Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
 * Longer gameplay video [here](https://vimeo.com/531702505).
