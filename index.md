@@ -13,7 +13,8 @@
 
 ### Zenga
 * iOS puzzle game based on the concept of [Eulerian paths](https://en.wikipedia.org/wiki/Eulerian_path). Basically you need to jot down shapes and not draw too much over whatever you've already drawn. The aesthetic is reminiscent of [Zenga](https://en.wikipedia.org/wiki/Zenga) type Japanese ink painting, where the name is derived from.
-* Wrote a custom algorithm for path recognition. The algorithm is based on overlaying invisible nodes over the drawing, essantially creating a graph that represents the drawing in a more abstract form. It is then measured that the player does not draw over a certain edge of the graph multiple times, while not forcing the player to draw perfectly over the original drawing.
+* Wrote a custom algorithm for the path recognition of the game. The algorithm is based on overlaying invisible nodes over the drawing, essantially creating a graph that represents the drawing in a more abstract form. It is then measured that the player does not draw over a certain edge of the graph multiple times, while not forcing the player to draw perfectly over the original drawing. Basically, each drawing is a representation of a small node graph with at least one Eulerian path built into it.
+* The next step in the design would be to add your own parts to the original painting, with a strictly limited amount of ink. This would allow for a much wider variety in the types of puzzles available, as you could introduce paintings that are incomplete.
 * Progress: ███████▁▁▁▁▁▁▁▁▁▁▁▁▁ 35%
 * Longer gameplay video [here](https://vimeo.com/531702505).
 
@@ -22,7 +23,7 @@
 ![Solving the fourth level.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/ZengaLoop4.gif "Solving the fourth level.")
 
 ### Kanuuna
-* iOS casual puzzler. You have a given amount of blocks with different colors and the map changes dynamically as you begin to plow through them. If the ball is not the right color, it will bounce off. The basic design could be used for something way less casual, but I ended up with this super bright and easily digestable thing. I guess I wanted to try to design something less minimalist and give myself a hall pass to juice everything up to eleven. The name means cannon in Finnish!
+* iOS casual puzzler. You have a given amount of blocks with different colors and the map changes dynamically as you begin to plow through them. If the ball is not the right color, it will bounce off. The basic design could be used for something way less casual, but I ended up with this super bright and easily digestable thing. I guess I wanted to try to design something less minimalist and give myself a hall pass to juice everything up to eleven.
 * ██████████▁▁▁▁▁▁▁▁▁▁ 50%
 
 ![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/KanuunaLogo1.gif "Title screen.")
