@@ -48,5 +48,5 @@
 * The project's [GitHub repository](https://github.com/enkomat/ot-harjoitustyo) contains more information and full source code.
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
 
-<img src="https://raw.githubusercontent.com/enkomat/ot-harjoitustyo/master/dokumentaatio/main_menu_screenshot.png" alt="Main menu" width="400"/>
-<img src="https://raw.githubusercontent.com/enkomat/ot-harjoitustyo/master/dokumentaatio/level_1_screenshot.png" alt="First level" width="400"/>
+<img src="https://raw.githubusercontent.com/enkomat/ot-harjoitustyo/master/dokumentaatio/main_menu_screenshot.png" alt="Main menu" width="200"/>
+<img src="https://raw.githubusercontent.com/enkomat/ot-harjoitustyo/master/dokumentaatio/level_1_screenshot.png" alt="First level" width="200"/>
