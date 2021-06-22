@@ -47,3 +47,5 @@
 * This was a project for an university course, where each student was tasked to create a program with Python. Built using [Pygame](https://www.pygame.org/). I used [two](https://www.kenney.nl/assets/micro-roguelike) [different](https://www.kenney.nl/assets/game-icons) open source graphics asset packs from [Kenney](https://www.kenney.nl) for the project.
 * The project's [GitHub repository](https://github.com/enkomat/ot-harjoitustyo) contains more information and full source code.
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
+
+<img src="https://raw.githubusercontent.com/enkomat/ot-harjoitustyo/master/dokumentaatio/level_1_screenshot.png" alt="First level" width="200"/>
