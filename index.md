@@ -1,5 +1,5 @@
 
-## My Solo Projects
+## Solo Projects
 
 ### Shift Select
 
