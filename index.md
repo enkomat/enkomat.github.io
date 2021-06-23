@@ -3,7 +3,7 @@
 
 ### Shift Select
 
-* Minimalistic browser puzzle game. The current project I'm working on. Based on exploring the mechanic of selecting multiple items at once, like you would when holding shift and the left mouse button on your computer. The mechanic sounds like the most boring thing imaginable when written out, but some interesting things start happening when you begin messing around with the XOR-gate type weirdness of multiple overlapping selections.
+* Minimalistic browser puzzle game. The current project I'm working on. Based on exploring the mechanic of selecting multiple items at once, like you would when holding shift and the left mouse button on your computer. The mechanic sounds like the most boring thing imaginable when written out, but some interesting things start happening when you begin messing around with the [XOR gate](https://en.wikipedia.org/wiki/XOR_gate) type weirdness of multiple overlapping selections.
 * [shiftselect.io](http://www.shiftselect.io)
 * Progress: ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 15%
 
