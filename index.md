@@ -6,6 +6,7 @@
 * Minimalistic browser puzzle game. The current project I'm working on. Based on exploring the mechanic of selecting multiple items at once, like you would when holding shift and the left mouse button on your computer. The mechanic sounds like the most boring thing imaginable when written out, but some interesting things start happening when you begin messing around with the [XOR gate](https://en.wikipedia.org/wiki/XOR_gate) type weirdness of multiple overlapping selections.
 * Built with vanilla JavaScript.
 * You can try the very much unfinished version of the game [here](https://enkomat.github.io/shiftselect/)!
+* The [GitHub repo](https://github.com/enkomat/shiftselect) contains full source code.
 * Progress: ██▁▁▁▁▁▁ 25%
 
 ### Isomorphic
@@ -64,5 +65,5 @@
 * Python programming game for Windows/Linux/MacOS. You control a character in the game and use it to build structures. The only way to control the character is by interfacing with the game through writing Python scripts. You write the code to solve a level with your chosen code editor and the game automatically updates the code to the game every time you save it, so it's less painful to iterate on your solution.
 * This was a project for an university course, where each student was tasked to create a program with Python. Built with [Pygame](https://www.pygame.org/). I used [two](https://www.kenney.nl/assets/micro-roguelike) [different](https://www.kenney.nl/assets/game-icons) open source graphics asset packs from [Kenney](https://www.kenney.nl) for the project.
 * Development in 2021.
-* The project's [GitHub repository](https://github.com/enkomat/ot-harjoitustyo) contains more information and full source code.
+* The [GitHub repo](https://github.com/enkomat/ot-harjoitustyo) contains more information and full source code.
 * Progress: ██▁▁▁▁▁▁ 25%
