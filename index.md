@@ -5,7 +5,6 @@
 
 * Minimalistic browser puzzle game. The current project I'm working on. Based on exploring the mechanic of selecting multiple items at once, like you would when holding shift and the left mouse button on your computer. The mechanic sounds like the most boring thing imaginable when written out, but some interesting things start happening when you begin messing around with the [XOR gate](https://en.wikipedia.org/wiki/XOR_gate) type weirdness of multiple overlapping selections.
 * Built with vanilla JavaScript.
-* You can try the very much unfinished version of the game [here](https://enkomat.github.io/shiftselect/)!
 * The [GitHub repo](https://github.com/enkomat/shiftselect) contains full source code.
 * Progress: ██▁▁▁▁▁▁ 25%
 
