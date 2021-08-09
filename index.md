@@ -71,4 +71,4 @@
 * Sokoban-like with a mining and Threes inspired twist. Started working on this project a week ago.
 * Built with Unity and C#.
 * The [GitHub repo](https://github.com/enkomat/chick-a-ban) contains the C# scripts I've written for the game.
-* Progress: █▁▁▁▁▁▁▁▁ 10%
+* Progress: █▁▁▁▁▁▁▁ 10%
