@@ -1,11 +1,6 @@
 
 ## Projects
 
-### chick-a-ban
-* Sokoban-like with a mining and Threes inspired twist. Started working on this project a week ago.
-* Built with Unity and C#.
-* The [GitHub repo](https://github.com/enkomat/chick-a-ban) contains the C# scripts I've written for the game.
-
 ### Isomorphic
 
 ![Title screen.](https://raw.githubusercontent.com/enkomat/enkomat.github.io/master/gifs/IsomorphicLogo1.png "Title screen.")
@@ -71,3 +66,9 @@
 * Built with vanilla JavaScript.
 * The [GitHub repo](https://github.com/enkomat/shiftselect) contains full source code.
 * Progress: ██▁▁▁▁▁▁ 25%
+
+### chick-a-ban
+* Sokoban-like with a mining and Threes inspired twist. Started working on this project a week ago.
+* Built with Unity and C#.
+* The [GitHub repo](https://github.com/enkomat/chick-a-ban) contains the C# scripts I've written for the game.
+* Progress: █▁▁▁▁▁▁▁ 10%
